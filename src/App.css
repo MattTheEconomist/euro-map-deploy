@@ -1,0 +1,152 @@
+:root {
+  --darkerBackground: #1c1c1c;
+  --darkBackground: #2b2b2b;
+  --lightForeGround: #5e5e5e;
+  --lightestGrey: #c4c2c2;
+  --brightRed: #ff004c;
+}
+
+body {
+  background-color: var(--darkBackground);
+}
+
+.App {
+  text-align: center;
+  background-color: var(--darkBackground);
+  color: white;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#countrySelectContainer {
+  background-color: var(--lightForeGround);
+  height: 150px;
+  padding-top: 1rem;
+}
+
+#europeMap {
+}
+
+#mapAndGraphContainer {
+  display: flex;
+  height: 500px;
+  width: 510px;
+}
+
+#graphContainer {
+  flex: 1;
+  background-color: var(--darkBackground);
+  height: 600px;
+  margin-left: 2rem;
+  /* border: 3px solid var(--lightForeGround); */
+}
+
+#graphSvg {
+  width: 510px;
+  margin-bottom: 10%;
+}
+
+#mapContainer {
+  flex: 2;
+  height: 500px;
+  width: 1100px;
+}
+
+#forceBlocksContainer {
+  border: 5px solid var(--lightForeGround);
+  height: "300px";
+}
+
+#forceBlocksTitle {
+  margin-left: -7%;
+}
+#forceTooltip {
+  position: relative;
+  background-color: #6c4bce;
+  /* padding: 5px; */
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  border-radius: 10px;
+  opacity: 0.95;
+  box-shadow: 3px 3px 0 0 #636363;
+}
+
+.hideMe {
+  visibility: hidden;
+}
+
+.showMe {
+  visibility: visible;
+}
+
+#destSelect {
+  background-color: grey;
+}
+
+.tradeFlowBtn {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  text-align: center;
+  margin-left: 5px;
+  border-radius: 7px;
+}
+
+.btnInitialState {
+}
+
+#activeBtn {
+  background: linear-gradient(45deg, var(--brightRed), #ee3f73 90%);
+}
+
+#passiveBtn {
+  background-color: var(--lightestGrey);
+}
+
+#countrySelectContainer .tradeFlowBtn :hover {
+  background-color: black;
+}
+
+#originSelect {
+  width: 170px;
+  height: 35px;
+  font-size: 14px;
+  position: relative;
+  top: 8px;
+  /* background: 4px var(--brightRed); */
+}
+
+.highlightSelect {
+  /* width: 177px;
+  height: 2px; */
+  border-top: 5px solid var(--brightRed);
+  border-bottom: 5px solid var(--brightRed);
+  /* margin-left: 30px;
+  margin-top: -5px; */
+  animation: blinkBorder 1s alternate infinite;
+}
+
+@keyframes blinkBorder {
+  100% {
+    border-top: 5px solid var(--lightForeGround);
+    border-bottom: 5px solid var(--lightForeGround);
+  }
+}
+
+#titleContainer {
+  background-color: var(--darkerBackground);
+  height: 75px;
+  margin-top: -20px;
+  padding-top: 10px;
+  margin-bottom: 5px;
+}

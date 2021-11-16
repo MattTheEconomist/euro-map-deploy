@@ -1,0 +1,133 @@
+[
+    {
+      "Partner": "austria",
+      "countryTotalExports": 108000000000,
+      "countryTotalImports": 118836000000
+    },
+    {
+      "Partner": "belgium",
+      "countryTotalExports": 253000000000,
+      "countryTotalImports": 225578000000
+    },
+    {
+      "Partner": "bulgaria",
+      "countryTotalExports": 18511606576,
+      "countryTotalImports": 19098892767
+    },
+    {
+      "Partner": "croatia",
+      "countryTotalExports": 9403446004,
+      "countryTotalImports": 18265451718
+    },
+
+    {
+      "Partner": "czechia",
+      "countryTotalExports": 127000000000,
+      "countryTotalImports": 111057000000
+    },
+    {
+      "Partner": "denmark",
+      "countryTotalExports": 54078331994,
+      "countryTotalImports": 61661096536
+    },
+    {
+      "Partner": "estonia",
+      "countryTotalExports": 9355173232,
+      "countryTotalImports": 11668477214
+    },
+    {
+      "Partner": "finland",
+      "countryTotalExports": 35143575658,
+      "countryTotalImports": 44278189117
+    },
+    {
+      "Partner": "france",
+      "countryTotalExports": 264000000000,
+      "countryTotalImports": 360188000000
+    },
+    {
+      "Partner": "germany",
+      "countryTotalExports": 711000000000,
+      "countryTotalImports": 688389000000
+    },
+    {
+      "Partner": "greece",
+      "countryTotalExports": 16404595999,
+      "countryTotalImports": 28903332040
+    },
+    {
+      "Partner": "hungary",
+      "countryTotalExports": 80429124657,
+      "countryTotalImports": 73021194025
+    },
+    {
+      "Partner": "ireland",
+      "countryTotalExports": 93220263830,
+      "countryTotalImports": 59987276745
+    },
+    {
+      "Partner": "italy",
+      "countryTotalExports": 238000000000,
+      "countryTotalImports": 226052000000
+    },
+    {
+      "Partner": "latvia",
+      "countryTotalExports": 9550698996,
+      "countryTotalImports": 12743462590
+    },
+    {
+      "Partner": "lithuania",
+      "countryTotalExports": 17825952247,
+      "countryTotalImports": 21143481270
+    },
+    {
+      "Partner": "luxembourg",
+      "countryTotalExports": 12032340553,
+      "countryTotalImports": 16569982067
+    },
+    {
+      "Partner": "netherlands",
+      "countryTotalExports": 411000000000,
+      "countryTotalImports": 240971000000
+    },
+    {
+      "Partner": "poland",
+      "countryTotalExports": 182000000000,
+      "countryTotalImports": 157158000000
+    },
+    {
+      "Partner": "portugal",
+      "countryTotalExports": 36149354500,
+      "countryTotalImports": 52600611635
+    },
+    {
+      "Partner": "romania",
+      "countryTotalExports": 44648297034,
+      "countryTotalImports": 60594778206
+    },
+    {
+      "Partner": "slovakia",
+      "countryTotalExports": 57664767881,
+      "countryTotalImports": 60569395445
+    },
+    {
+      "Partner": "slovenia",
+      "countryTotalExports": 23996168452,
+      "countryTotalImports": 21925468953
+    },
+    {
+      "Partner": "spain",
+      "countryTotalExports": 175000000000,
+      "countryTotalImports": 172676000000
+    },
+    {
+      "Partner": "sweden",
+      "countryTotalExports": 82848289321,
+      "countryTotalImports": 94441025123
+    },
+    {
+      "Partner": "unitedKingdom",
+      "countryTotalExports": 185000000000,
+      "countryTotalImports": 292075000000
+    }
+  ]

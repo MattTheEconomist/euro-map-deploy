@@ -1,0 +1,13 @@
+[{"name":"Albania","latitude":41.153332,"longitude":20.168331},{"name":"Austria","latitude":47.516231,"longitude":14.550072},{"name":"Bosnia","latitude":43.915886,"longitude":17.679076},{"name":"Belgium","latitude":50.503887,"longitude":4.469936},{"name":"Bulgaria","latitude":42.733883,"longitude":25.48583},{"name":"Belarus","latitude":53.709807,"longitude":27.953389},{"name":"Switzerland","latitude":46.818188,"longitude":8.227512},{"name":"Cyprus","latitude":35.126413,"longitude":33.429859},{"name":"Germany","latitude":51.165691,"longitude":10.451526},{"name":"Denmark","latitude":56.26392,"longitude":9.501785},{"name":"Estonia","latitude":58.595272,"longitude":25.513607},{"name":"Spain","latitude":40.463667,"longitude":-3.74922},{"name":"Finland","latitude":61.92411,"longitude":25.748151},{"name":"France","latitude":46.227638,"longitude":2.213749},{"name":"unitedKingdom","latitude":52.378051,"longitude":-1.135973},
+    
+ 
+    {"name":"Croatia","latitude":45.4,"longitude":16.7},
+    {"name":"Czechia","latitude": 49.5,"longitude":15.4749},
+    {"name":"Hungary","latitude":47.162494,"longitude":19.503304},{"name":"Ireland","latitude":53.41291,"longitude":-8.04389},{"name":"Italy","latitude":42.87194,"longitude":12.56738},{"name":"Lithuania","latitude":55.169438,"longitude":23.881275},{"name":"Luxembourg","latitude":49.815273,"longitude":6.129583},{"name":"Latvia","latitude":56.5,"longitude":24.603189},{"name":"Moldova","latitude":47.411631,"longitude":28.369885},{"name":"Macedonia","latitude":41.608635,"longitude":21.745275},{"name":"Malta","latitude":35.937496,"longitude":14.375416},
+    
+    
+    
+    
+    {"name":"Norway","latitude":60.472024,"longitude":8.468946},{"name":"Poland","latitude":51.919438,"longitude":19.145136},
+
+    {"name":"Romania","latitude":45.943161,"longitude":24.96676},{"name":"Serbia","latitude":44.016521,"longitude":21.005859},{"name":"Sweden","latitude":60.128161,"longitude":15.643501},{"name":"Slovenia","latitude":46.151241,"longitude":14.995463},{"name":"Slovakia","latitude":48.669026,"longitude":19.699024},{"name":"Ukraine","latitude":48.379433,"longitude":31.16558}]
